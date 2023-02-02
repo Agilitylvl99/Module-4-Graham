@@ -214,4 +214,3 @@ function checkAnswer(answer){
 }
 // Button for starting game
 startQuizButton.addEventListener("click",startQuiz);
-console.log("no errors HAH")
